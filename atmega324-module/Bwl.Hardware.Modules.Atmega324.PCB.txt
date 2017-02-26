@@ -1,0 +1,1 @@
+Breadboard for Atmega324 available at https://github.com/Lifemotion/Bwl.GenericAvrPcb/tree/master/Atmega324P
